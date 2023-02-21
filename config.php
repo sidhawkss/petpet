@@ -1,6 +1,6 @@
 <?php
-$dbuser = "";
-$dbpass = "";
+$dbuser = "root";
+$dbpass = "P@ssword123";
 $host = "localhost";
 $dbname = "data";
 $table = "users";
